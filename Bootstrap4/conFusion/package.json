@@ -52,11 +52,11 @@
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2",
     "time-grunt": "^1.4.0",
-    "uglifyjs": "^2.4.11",
+    "uglifyjs": "^3.4.9",
     "usemin-cli": "^0.5.1"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.1.3",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
